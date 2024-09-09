@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @floatingheaven
-- 👀 I’m interested in Android Dev.
+- 👀 I’m interested in Android Dev, minecraft.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on some Java projects, minecraft modding.
 - 📫 How to reach me sasalkinesketit@gmail.com
